@@ -46,3 +46,14 @@ local.properties
 flows/
 target/
 **/*.mflow
+
+###
+
+.DS_Store
+.classpath
+.project
+activemq-data
+catalog
+derby.log
+Icon
+

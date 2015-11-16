@@ -55,4 +55,10 @@ target/
 activemq-data
 catalog
 derby.log
-Icon^M^M
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
